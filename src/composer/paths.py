@@ -1,6 +1,6 @@
 from pathlib import Path
 
-Root = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[2]
 # parents[2] goes up 2 levels back to repo root
 
 
